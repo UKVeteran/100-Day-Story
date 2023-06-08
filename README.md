@@ -1,1 +1,1 @@
-# 100-Day-Story
+1 - Band Name Generator
