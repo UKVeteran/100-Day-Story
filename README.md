@@ -8,7 +8,7 @@
 - 8 - Caesar Cipher
 - 9 - Secret Auction Program
 - 10 - Calculator
-- 11 - 
+- 11 - Capstone Project 1: BlackJack
 - 12 - 
 - 13 - 
 - 14 - 
