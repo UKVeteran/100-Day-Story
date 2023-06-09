@@ -6,7 +6,7 @@
 - 6 - Maze Escape
 - 7 - Hangman
 - 8 - Caesar Cipher
-- 9 - 
+- 9 - Secret Auction Program
 - 10 - 
 - 11 - 
 - 12 - 
