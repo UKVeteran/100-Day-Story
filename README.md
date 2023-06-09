@@ -5,7 +5,7 @@
 - 5 - Random Password Generator
 - 6 - Maze Escape
 - 7 - Hangman
-- 8 - 
+- 8 - Caesar Cipher
 - 9 - 
 - 10 - 
 - 11 - 
