@@ -4,7 +4,7 @@
 - 4 - Rock Paper Scissors
 - 5 - Random Password Generator
 - 6 - Maze Escape
-- 7 - 
+- 7 - Hangman
 - 8 - 
 - 9 - 
 - 10 - 
