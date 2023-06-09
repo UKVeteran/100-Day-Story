@@ -10,7 +10,7 @@
 - 10 - Calculator
 - 11 - Capstone Project 1: BlackJack
 - 12 - Number Guessing Game
-- 13 - 
+- 13 - Debugging
 - 14 - 
 - 15 - 
 - 16 - 
