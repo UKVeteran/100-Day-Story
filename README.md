@@ -12,7 +12,7 @@
 - 12 - Number Guessing Game
 - 13 - Debugging
 - 14 - Higher or Lower Game
-- 15 - 
+- 15 - Coffee Machine
 - 16 - 
 - 17 - 
 - 18 - 
