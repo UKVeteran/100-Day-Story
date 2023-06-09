@@ -7,7 +7,7 @@
 - 7 - Hangman
 - 8 - Caesar Cipher
 - 9 - Secret Auction Program
-- 10 - 
+- 10 - Calculator
 - 11 - 
 - 12 - 
 - 13 - 
