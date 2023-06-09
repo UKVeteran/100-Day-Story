@@ -11,7 +11,7 @@
 - 11 - Capstone Project 1: BlackJack
 - 12 - Number Guessing Game
 - 13 - Debugging
-- 14 - 
+- 14 - Higher or Lower Game
 - 15 - 
 - 16 - 
 - 17 - 
