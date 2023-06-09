@@ -9,7 +9,7 @@
 - 9 - Secret Auction Program
 - 10 - Calculator
 - 11 - Capstone Project 1: BlackJack
-- 12 - 
+- 12 - Number Guessing Game
 - 13 - 
 - 14 - 
 - 15 - 
