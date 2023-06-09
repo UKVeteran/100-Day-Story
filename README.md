@@ -2,7 +2,7 @@
 - 2 - Tip Calculator
 - 3 - Treasure Island
 - 4 - Rock Paper Scissors
-- 5 - 
+- 5 - Random Password Generator
 - 6 - 
 - 7 - 
 - 8 - 
