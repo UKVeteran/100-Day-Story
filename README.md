@@ -13,7 +13,7 @@
 - 13 - Debugging
 - 14 - Higher or Lower Game
 - 15 - Coffee Machine
-- 16 - 
+- 16 - OOP Coffee Machine
 - 17 - 
 - 18 - 
 - 19 - 
