@@ -49,5 +49,5 @@
 - 46 - Spotify Playlist
 - 47 - Automated Amazon Price Tracker
 - 48 - Cookie Clicker
-- 49 -
-- 50 -
+- 49 - LinkedIn Jobs
+- 50 - Tinder Swiper
