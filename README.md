@@ -29,7 +29,7 @@
 - 27 - Miles to KM Converter
 - 28 - Pomodoro Timer
 - 29 - Password Manager
-- 30 - 
+- 30 - Enhanced Password Manager
 - 31 - 
 - 32 - 
 - 33 - 
