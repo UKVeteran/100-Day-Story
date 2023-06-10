@@ -32,6 +32,7 @@
 - 30 - Enhanced Password Manager
 - 31 - Capstone Project 3: Flash Card App
 - 32 - Automated Birthday Wisher
+- C - Kanye Quotes App
 - 33 - 
 - 34 - 
 - 35 - 
