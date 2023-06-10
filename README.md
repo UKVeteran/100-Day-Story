@@ -41,7 +41,7 @@
 - 38 - Exercise Tracker
 - 39 - 40 - Capstone Project 4&5: Flight Deals
 - 41 - Movie Ranking - Simply HTML
-- 42 - 
+- 42 - Birthday Invite Project
 - 43 -
 - 44 -
 - 45 -
