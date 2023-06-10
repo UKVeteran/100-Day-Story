@@ -36,7 +36,7 @@
 - 33 - ISS Overhead Notifier Tracker
 - 34 - Quizzler
 - 35 - Rain Alert
-- 36 - 
+- 36 - Stock News
 - 37 - 
 - 38 - 
 - 39 - 
