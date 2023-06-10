@@ -34,7 +34,7 @@
 - 32 - Automated Birthday Wisher
 - C - Kanye Quotes App
 - 33 - ISS Overhead Notifier Tracker
-- 34 - 
+- 34 - Quizzler
 - 35 - 
 - 36 - 
 - 37 - 
