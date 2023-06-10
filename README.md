@@ -14,7 +14,7 @@
 - 14 - Higher or Lower Game
 - 15 - Coffee Machine
 - 16 - OOP Coffee Machine
-- 17 - 
+- 17 - True or False Quiz Game
 - 18 - 
 - 19 - 
 - 20 - 
