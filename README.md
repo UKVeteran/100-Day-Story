@@ -46,7 +46,7 @@
 - 44 - Motivational Poster Website - CSS
 - D - Hacker News Solution
 - 45 - 100 Must Watch Movies
-- 46 -
+- 46 - Spotify Playlist
 - 47 -
 - 48 -
 - 49 -
