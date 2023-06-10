@@ -22,7 +22,7 @@
 - 22 - Ping Pong
 - 23 - Capstone Project 2: Turtle Crossing
 - A - Snake Game High Score
-- 24 - 
+- 24 - Mail Merge
 - 25 - 
 - 26 - 
 - 27 - 
