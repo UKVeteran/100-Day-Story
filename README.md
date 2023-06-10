@@ -30,7 +30,7 @@
 - 28 - Pomodoro Timer
 - 29 - Password Manager
 - 30 - Enhanced Password Manager
-- 31 - 
+- 31 - Capstone Project 3: Flash Card App
 - 32 - 
 - 33 - 
 - 34 - 
