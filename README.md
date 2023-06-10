@@ -48,6 +48,6 @@
 - 45 - 100 Must Watch Movies
 - 46 - Spotify Playlist
 - 47 - Automated Amazon Price Tracker
-- 48 -
+- 48 - Cookie Clicker
 - 49 -
 - 50 -
