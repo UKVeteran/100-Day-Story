@@ -27,7 +27,7 @@
 - 26 - NATO Phonetic Alphabet
 - B - First GUI 
 - 27 - Miles to KM Converter
-- 28 - Pomodoro Technique
+- 28 - Pomodoro Timer
 - 29 - 
 - 30 - 
 - 31 - 
