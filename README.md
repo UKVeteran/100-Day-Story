@@ -44,6 +44,7 @@
 - 42 - Birthday Invite Project - HTML
 - 43 - Color Vocab Website - CSS
 - 44 - Motivational Poster Website - CSS
+- D - Hacker News Solution
 - 45 -
 - 46 -
 - 47 -
