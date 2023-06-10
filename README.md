@@ -38,7 +38,7 @@
 - 35 - Rain Alert
 - 36 - Stock News
 - 37 - Habit Tracker - Pixela
-- 38 - 
+- 38 - Exercise Tracker
 - 39 - 
 - 40 -
 - 41 
