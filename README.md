@@ -39,8 +39,7 @@
 - 36 - Stock News
 - 37 - Habit Tracker - Pixela
 - 38 - Exercise Tracker
-- 39 - 
-- 40 -
+- 39 - 40 - Capstone Project 4&5: Flight Deals
 - 41 
 - 42 -
 - 43 -
