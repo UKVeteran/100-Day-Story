@@ -15,7 +15,7 @@
 - 15 - Coffee Machine
 - 16 - OOP Coffee Machine
 - 17 - True or False Quiz Game
-- 18 - 
+- 18 - Hirst Painting
 - 19 - 
 - 20 - 
 - 21 - 
