@@ -20,7 +20,7 @@
 - 20 - Snake Game 1
 - 21 - Snake Game 2
 - 22 - Ping Pong
-- 23 - 
+- 23 - Capstone Project 2: Turtle Crossing
 - 24 - 
 - 25 - 
 - 26 - 
