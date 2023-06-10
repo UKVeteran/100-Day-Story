@@ -42,7 +42,7 @@
 - 39 - 40 - Capstone Project 4&5: Flight Deals
 - 41 - Movie Ranking - Simply HTML
 - 42 - Birthday Invite Project - HTML
-- 43 -
+- 43 - Color Vocab Website - CSS
 - 44 -
 - 45 -
 - 46 -
