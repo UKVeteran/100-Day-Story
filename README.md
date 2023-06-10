@@ -21,6 +21,7 @@
 - 21 - Snake Game 2
 - 22 - Ping Pong
 - 23 - Capstone Project 2: Turtle Crossing
+- A - Snake Game High Score
 - 24 - 
 - 25 - 
 - 26 - 
