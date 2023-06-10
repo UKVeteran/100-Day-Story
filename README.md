@@ -24,7 +24,7 @@
 - A - Snake Game High Score
 - 24 - Mail Merge
 - 25 - US States Game
-- 26 - 
+- 26 - NATO Phonetic Alphabet
 - 27 - 
 - 28 - 
 - 29 - 
