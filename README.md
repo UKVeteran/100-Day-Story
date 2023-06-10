@@ -28,7 +28,7 @@
 - B - First GUI 
 - 27 - Miles to KM Converter
 - 28 - Pomodoro Timer
-- 29 - 
+- 29 - Password Manager
 - 30 - 
 - 31 - 
 - 32 - 
