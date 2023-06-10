@@ -43,7 +43,7 @@
 - 41 - Movie Ranking - Simply HTML
 - 42 - Birthday Invite Project - HTML
 - 43 - Color Vocab Website - CSS
-- 44 -
+- 44 - Motivational Poster Website - CSS
 - 45 -
 - 46 -
 - 47 -
