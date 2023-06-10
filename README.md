@@ -25,7 +25,8 @@
 - 24 - Mail Merge
 - 25 - US States Game
 - 26 - NATO Phonetic Alphabet
-- 27 - 
+- B - First GUI 
+- 27 - Miles to KM Converter
 - 28 - 
 - 29 - 
 - 30 - 
