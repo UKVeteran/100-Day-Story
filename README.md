@@ -51,6 +51,7 @@
 - 48 - Cookie Clicker
 - 49 - LinkedIn Jobs
 - 50 - Tinder Swiper
+- E - Internet Speed Test
 - 51 - Twitter Bot
 - 52 - Instagram Followers
 - 53 -
