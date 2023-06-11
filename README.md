@@ -52,7 +52,7 @@
 - 49 - LinkedIn Jobs
 - 50 - Tinder Swiper
 - 51 - Twitter Bot
-- 52 -
+- 52 - Instagram Followers
 - 53 -
 - 54 -
 - 55 -
